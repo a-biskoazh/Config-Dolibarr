@@ -6,6 +6,10 @@ On part d'une instance vierge, installée sur un serveur, en mode admin / super-
 On a pas la main sur le serveur
 On veut configurer l'instance à l'usage d'une TPE artisanale du batiment, hypothétiquement avec un futur fonctionnement en coopérative. Ce sont des entreprises commerciales vendant des ouvrages, un mix de produits et de service.
 
+# Renseigner les infos de la société
+Renseigner les informations légales et commerciale, etc..
+Activer l'assujettissement à la TVA
+
 # Activation des modules nécessaires à l'instance
 Cette étape semble devoir être réalisée rapidement, afin de donner les permissions aux groupes une fois pour toute, plutôt que au fur et à mesure de l'activation des modules
 Cela implique de connaître les modules nécessaires et leur fonctionnement, donc bien connaître ses besoins aussi
