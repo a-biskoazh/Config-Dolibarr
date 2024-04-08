@@ -2,9 +2,10 @@
 Détails de configuration d'un dolibarr pour petit artisan - Niveau Newbie
 
 # Prérequis / contexte
-On part d'une instance vierge, installée sur un serveur, en mode admin / super-admin
-On a pas la main sur le serveur
 On veut configurer l'instance à l'usage d'une TPE artisanale du batiment, hypothétiquement avec un futur fonctionnement en coopérative. Ce sont des entreprises commerciales vendant des ouvrages, un mix de produits et de service.
+
+L'instance est installée sur un serveur mutualisé type "Chaton", répliquée en miroir sur un autre CHATON situé à 20km de là, cela devrait nous préserver des crashs serveur, incendies et autres désagrément. En cas d'attaque/piratage, une sauvedarge physique et déconnectée sera effectuée tous les 3 mois, pour nous permettre de relancer une nouvelle instance sur un nouveau serveur dans les plus bref délais.
+Par ailleurs, il doit être possible de faire un "ghost" de la configuration initiale de Dolibarr j'imagine ?
 
 # Renseigner les infos de la société
 Renseigner les informations légales et commerciale, etc..
